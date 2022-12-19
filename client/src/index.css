@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;500;600;800;900&display=swap");
+
+h1 {
+  font-family: "Vollkron", serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 70px;
+  text-align: center;
+}
+.bg {
+  background-image: url("/src/assest/img/bg-frame.svg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.bg-grey {
+  background-color: #e5e5e5;
+}
+
+.margin {
+  margin-top: 50px;
+}
+
+.title {
+  font-family: Times New Roman;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.author {
+  font-family: Avenir;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #929292;
+}
+
+.sub- title {
+  font-family: Avenir;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.desc {
+  font-family: Avenir;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: justify;
+  color: #929292;
+}
